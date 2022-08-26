@@ -1,0 +1,28 @@
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).AssemblyInfo.cs
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).exe
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).deps.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).runtimeconfig.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).runtimeconfig.dev.json
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).pdb
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).dll
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).pdb
+C:\Users\user\OneDrive\Робочий стіл\1-й курс_ІК-11_Колісецький Іван\2-й семестр\Оснои програмування-2\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).genruntimeconfig.cache
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).exe
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).deps.json
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).runtimeconfig.json
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).runtimeconfig.dev.json
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).dll
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\bin\Debug\netcoreapp3.1\ЛР3(1).pdb
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).csproj.AssemblyReference.cache
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).AssemblyInfoInputs.cache
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).AssemblyInfo.cs
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).csproj.CoreCompileInputs.cache
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).dll
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).pdb
+C:\Users\Наташенька\Downloads\Telegram Desktop\2,3,4 лаби\ЛР3(1)\obj\Debug\netcoreapp3.1\ЛР3(1).genruntimeconfig.cache
